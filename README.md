@@ -1,4 +1,4 @@
-# 365_days_coding
+# 365 Days Coding Challenge
 
 | S.No | Problem Title                | Youtube                                                  | Solve Online |
 | ---- | ---------------------------- | -------------------------------------------------------- | ------------ |
